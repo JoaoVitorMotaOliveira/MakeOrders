@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\bin\Debug\net6.0\Fazer Pedidos.exe
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\bin\Debug\net6.0\Fazer Pedidos.deps.json
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\bin\Debug\net6.0\Fazer Pedidos.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\bin\Debug\net6.0\Fazer Pedidos.dll
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\bin\Debug\net6.0\Fazer Pedidos.pdb
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.dll
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\refint\Fazer Pedidos.dll
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.pdb
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\Fazer Pedidos.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Documentos\Programação\C#\Aprendendo\Udemy - Orientado a Objetos\Projetos\Fazer Pedidos\Fazer Pedidos\obj\Debug\net6.0\ref\Fazer Pedidos.dll
